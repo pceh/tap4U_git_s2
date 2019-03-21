@@ -9,6 +9,7 @@
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="336,193,0,0" VerticalAlignment="Top" Width="75"/>
         <Label Content="HOIIIII" HorizontalAlignment="Left" Margin="383,121,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="kyra bitch" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="104,82,0,0"/>
 
     </Grid>
 </Window>
